@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "py32f002bxx_ll_start_kit.h": "c",
+        "led.h": "c",
+        "py32f002b_ll_cortex.h": "c",
+        "delay.h": "c",
+        "py32f002b_ll_tim.h": "c"
+    },
+    "files.encoding": "gb2312"
+}
