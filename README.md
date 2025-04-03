@@ -11,7 +11,7 @@
 - 技术邮箱：1101495766@qq.com
 - 淘宝店铺：https://shop129432197.taobao.com/?spm=pc_detail.29232929/evo365560b447259.shop_block.dshopinfo.2d657dd6VfPiId
 
-![f2b51fa13043e85cea52a9db92354d6](https://github.com/user-attachments/assets/f94d0150-377b-4fd4-8ea3-5842dd148f39)
+![微信图片_20250404001240(1)](https://github.com/user-attachments/assets/db9531d0-c39d-4294-a486-9aabe922fa39)
 
 
   
